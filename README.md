@@ -1,2 +1,2 @@
-# E_O_Inventory-
+# Tableau Project
 Analytics Portfolio
